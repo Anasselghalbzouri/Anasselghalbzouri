@@ -36,12 +36,8 @@ I build web applications end-to-end — from relational data models and REST API
 | **[SkyCode Weather App](https://github.com/Anasselghalbzouri/AnassMeteo)** | A weather app with city search, favorites and detailed conditions (humidity, wind, sunrise/sunset), styled with a glassmorphism UI and backed by the OpenWeatherMap API. | React · Redux Toolkit · Tailwind CSS |
 | **[Pastry Business Portfolio](https://github.com/Anasselghalbzouri/pastry-portfolio)** | Client project: a multilingual showcase site for a pastry business. | Next.js · TypeScript · Tailwind CSS |
 
----
 
-### 📊 GitHub Stats
 
-![Anass GitHub stats](https://github-readme-stats.vercel.app/api?username=Anasselghalbzouri&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anasselghalbzouri&layout=compact&hide_border=true)
 
 ---
 
