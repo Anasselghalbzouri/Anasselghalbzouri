@@ -24,7 +24,7 @@ I build web applications end-to-end — from relational data models and REST API
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
+[![Deploy to Hostinger](https://github.com/Anasselghalbzouri/Rh_onda_ahu/actions/workflows/deploy.yml/badge.svg)](https://github.com/Anasselghalbzouri/Rh_onda_ahu/actions/workflows/deploy.yml)
 ---
 
 ### 🚀 Featured Projects
